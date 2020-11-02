@@ -11,7 +11,7 @@ body {
 	justify-content: center;
 
 }
-h1, h2 {
+h1, h2, h3 {
 	font-family: 'Roboto', sans-serif;
 	font-weight: bold;
 
@@ -20,6 +20,7 @@ h3 {
 	margin: 50px auto;
 	text-align: center;
 	font-size: 30px;
+	color: #fa7f72;
 }
 a {
 	font-family: 'Roboto', sans-serif;
